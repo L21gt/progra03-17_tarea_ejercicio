@@ -1,6 +1,6 @@
 Luis Velasquez  
 Carnet 24011341  
-Tarea 17 - tarea ejercicio (P)  
+Tarea 17 - tarea ejercicio  
 Curso JavaScript Testing  
 
 # INSTRUCCIONES
